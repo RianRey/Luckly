@@ -1,0 +1,18 @@
+body{
+	background: #F5FFFA;
+}
+
+#content{
+	background:#FFFFFF;
+}
+#sidebar{
+	background:#FFFFFF;
+}
+.post{
+	background: #58FA82;
+}
+
+.contentbox{
+	background: #AFEEEE;
+	border-radius: 10px;
+}
