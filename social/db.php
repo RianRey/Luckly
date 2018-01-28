@@ -1,8 +1,8 @@
 <?php
 	require "rb.php";
 	 $settings = parse_ini_file("settings.ini");
-		R::setup( 'mysql:host=localhost;dbname=id3655014_social',
-        'id3655014_admin', 'dima201311' );
+		R::setup( 'mysql:host=localhost;dbname=mysocial',
+        'root', '' );
 
 	session_start();
 
